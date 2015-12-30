@@ -1,3 +1,3 @@
 alert('hello');
-alert("testing");
-alert();
+alert("hellotesting");
+
